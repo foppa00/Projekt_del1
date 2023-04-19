@@ -1,6 +1,9 @@
 Stationsnamn;Stationsnummer;Stationsnät;Mäthöjd (meter över marken)
 Södertälje;97120;SMHIs stationsnät;2.0
 ;;;
+Parameternamn;Beskrivning;Enhet;
+Lufttemperatur;medel, 1 gång per månad;celsius;
+;;;
 ;;;
 Från Datum Tid (UTC);Representativ månad;Lufttemperatur;Kvalitet
 1909-07-01 00:00;09-juli;15.6;G
